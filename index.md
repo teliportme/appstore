@@ -2,9 +2,6 @@
 
 ### How do I capture a Panorama ?
 ![](https://media.giphy.com/media/xUA7b8KRlijnmHv6nu/giphy.gif)
-### How do I share a Panorama ?
-
-### How do I unshare a Panorama ?
 
 
 
