@@ -1,6 +1,6 @@
 ## HD Plus
 
-<video src="https://splice.gopro.com/v?id=75NkAE" width="320" height="200" controls preload></video>
+<video src="https://dm9798hkwy8ay.cloudfront.net/hd_plus_howto.mp4" width="320" height="200" controls preload></video>
 
 ### How To Capture ?
 
