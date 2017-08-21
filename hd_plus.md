@@ -1,6 +1,6 @@
 ## HD Plus
 
-<video src="https://dm9798hkwy8ay.cloudfront.net/hd_plus_howto.mp4" width="320" height="200" controls preload></video>
+<video src="https://dm9798hkwy8ay.cloudfront.net/hd_plus_howto.mp4" poster="https://dm9798hkwy8ay.cloudfront.net/hd_plus_howto.jpg" width="320" height="200" controls preload></video>
 
 ### How To Capture ?
 
